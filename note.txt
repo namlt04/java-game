@@ -1,0 +1,12 @@
+cửa end game: (rgb) 139 0 255
+vị trí xuất hiện : 255 0 0 : 255
+tường không nhảy qua 0 0 0 
+bục nhảy qua 56 59 58
+có thể di chuyển được 19 19 73
+kim cương : 30 38 190
+tim 31 140 244
+lợn di chuyển 32 218 64
+lợn đứng yên 33 177 124
+pháo 34 141 2 : là vị trí của đạn bắn sang bên tay trái
+pháo 35 0 0     : là vị trí quay sang bên phải  
+getRed() 
